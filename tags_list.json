@@ -1,0 +1,66 @@
+{
+  "Kontakt_i_komunikacja": [
+    "kontakt_z_bliskimi",
+    "wideorozmowy_podstawowy",
+    "wideorozmowy_zaawansowany",
+    "komunikatory_online",
+    "media_spolecznosciowe_podstawowy",
+    "media_spolecznosciowe_zaawansowany"
+  ],
+  "Bezpieczenstwo_online": [
+    "rozpoznawanie_oszustw_podstawowy",
+    "rozpoznawanie_oszustw_zaawansowany",
+    "phishing",
+    "bezpieczne_zakupy",
+    "ochrona_prywatnosci",
+    "ochrona_tozsamosci"
+  ],
+  "Zakupy_i_finanse_online": [
+    "zakupy_online",
+    "porownywanie_cen",
+    "platnosci_online",
+    "wyszukiwanie_promocji"
+  ],
+  "Zdrowie_i_opieka": [
+    "zdrowie_online",
+    "konsultacje_online",
+    "przypomnienia_leki",
+    "e_pacjent",
+    "rejestracja_lekarz"
+  ],
+  "Hobby_i_rozrywka": [
+    "hobby_podstawowy",
+    "hobby_zaawansowany",
+    "gotowanie_online",
+    "fotografia_podstawowy",
+    "fotografia_zaawansowany",
+    "gry_online",
+    "audiobooki"
+  ],
+  "Nauka_i_rozwoj": [
+    "nauka_jezykow_podstawowy",
+    "nauka_jezykow_zaawansowany",
+    "edukacja_cyfrowa_podstawowy",
+    "edukacja_cyfrowa_zaawansowany",
+    "sztuczna_inteligencja"
+  ],
+  "Kultura_i_podroze": [
+    "kultura_online",
+    "koncerty_online",
+    "spektakle_online",
+    "wirtualne_spacery",
+    "planowanie_podrozy"
+  ],
+  "Technologie_i_nowosci": [
+    "nowinki_technologiczne",
+    "proste_technologie",
+    "ai_tlumaczenia",
+    "ai_pomoc"
+  ],
+  "Kompetencje_cyfrowe_i_obywatelstwo": [
+    "etyka_cyfrowa",
+    "obywatelstwo_cyfrowe",
+    "krytyczne_myslenie",
+    "inkluzywnosc_cyfrowa"
+  ]
+}
